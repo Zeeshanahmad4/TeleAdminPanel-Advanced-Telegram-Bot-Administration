@@ -41,11 +41,11 @@
 - [Contribution Guidelines](#contribution-guidelines)
 
 
-## 1\. Project Overview 📖
+## Project Overview 📖
 
 TeleAdminPanel is a comprehensive administration panel designed for seamless integration with Telegram bots. This panel offers a suite of tools to manage, monitor, and enhance the functionalities of your bot, ensuring a robust and user-friendly experience.
 
-## 2\. Features ✨
+## Features ✨
 
 - **Web-Based Access**: Access the panel from any device, anytime.
 - **Secure Authentication**: Only authorized users can gain access.
@@ -64,14 +64,14 @@ TeleAdminPanel is a comprehensive administration panel designed for seamless int
 - **Integration with Other Messaging Platforms**: Beyond Telegram, manage bots on other platforms like WhatsApp and Messenger.
 
 
-## 3\. Requirements 📋
+## Requirements 📋
 
 - Node.js (version 14 or higher recommended)
 - MongoDB instance (local or cloud-based)
 - Telegram bot API key
 
 
-## 4\. Usage Examples 💡
+## Usage Examples 💡
 ```// Start the server
 node app.js
 
@@ -79,7 +79,7 @@ node app.js
 // Server is running on port 3000
 ```
 
-## 5\. Setup and Installation Instructions 🛠️
+## Setup and Installation Instructions 🛠️
 
 1. Clone the repository: `git clone https://github.com/yourusername/TeleAdminPanel.git`
 2. Navigate to the project directory: `cd TeleAdminPanel`
@@ -88,13 +88,13 @@ node app.js
 5. Start the server: `node app.js`
 
 
-## 6\. Troubleshooting Tips 🩺
+## Troubleshooting Tips 🩺
 
 - If the server doesn't start, ensure that you're not running other processes on the same port.
 - For database connection issues, verify the database URL and ensure the MongoDB instance is running.
 - Ensure all environment variables are set correctly.
 
-## 7\. Contribution Guidelines 🤝
+## Contribution Guidelines 🤝
 
 We welcome contributions from the community! Here's how you can contribute:
 
