@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Messages</title>
+</head>
+<body>
+    <h1>✉️ Messages</h1>
+    <ul>
+        <% messages.forEach(message => { %>
+            <li>
+                <strong><%= message.sender %>:</strong> <%= message.content %>
+                <!-- Additional message details or actions can be added here -->
+            </li>
+        <% }); %>
+    </ul>
+</body>
+</html>
