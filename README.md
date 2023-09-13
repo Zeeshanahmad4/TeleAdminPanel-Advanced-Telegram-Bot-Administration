@@ -57,7 +57,7 @@ TeleAdminPanel is a comprehensive administration panel designed for seamless int
 - **In-depth Statistics**: Gain insights with transactional stats and visual data representations.
 - **Manual Identity Verification**: Ensure the authenticity of your user base.
 
-#### Future Features (To-Do) 🚀
+## Future Features (To-Do) 🚀
 
 - **Multi-language Support**: Cater to a global audience with multi-language support.
 - **Advanced Analytics**: Delve deeper into user behavior and bot interactions.
