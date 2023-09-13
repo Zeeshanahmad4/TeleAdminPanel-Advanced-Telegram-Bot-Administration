@@ -28,9 +28,6 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
-# Saving the Table of Contents to a Markdown file for the third time
-
-toc_content = """
 ## Table of Contents
 
 - [Project Overview](#project-overview)
