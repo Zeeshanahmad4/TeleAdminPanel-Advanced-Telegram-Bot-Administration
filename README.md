@@ -28,17 +28,16 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
-## Table of Contents
+# Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-   - [To-Do Features](#to-do-features)
- [File Structure](#file-structure)
- [Requirements](#requirements)
- [Usage Examples](#usage-examples)
- [Setup and Installation Instructions](#setup-and-installation-instructions)
- [Troubleshooting Tips](#troubleshooting-tips)
- [Contribution Guidelines](#contribution-guidelines)
+1. [Project Overview](#project-overview-)
+2. [Features](#features-)
+    - [Future Enhancements (To-Do)](#future-enhancements-to-do-)
+3. [Requirements](#requirements-)
+4. [Usage Examples](#usage-examples-)
+    - [Setup and Installation Instructions](#setup-and-installation-instructions-)
+6. [Troubleshooting Tips](#troubleshooting-tips-)
+7. [Contribution Guidelines](#contribution-guidelines-)
 
 
 
@@ -46,7 +45,7 @@
 
 TeleAdminPanel is a comprehensive administration panel designed for seamless integration with Telegram bots. This panel offers a suite of tools to manage, monitor, and enhance the functionalities of your bot, ensuring a robust and user-friendly experience.
 
-## Features ✨
+## 2\. Features ✨
 
 - **Web-Based Access**: Access the panel from any device, anytime.
 - **Secure Authentication**: Only authorized users can gain access.
@@ -58,7 +57,7 @@ TeleAdminPanel is a comprehensive administration panel designed for seamless int
 - **In-depth Statistics**: Gain insights with transactional stats and visual data representations.
 - **Manual Identity Verification**: Ensure the authenticity of your user base.
 
-## Future Features (To-Do) 🚀
+#### Future Features (To-Do) 🚀
 
 - **Multi-language Support**: Cater to a global audience with multi-language support.
 - **Advanced Analytics**: Delve deeper into user behavior and bot interactions.
