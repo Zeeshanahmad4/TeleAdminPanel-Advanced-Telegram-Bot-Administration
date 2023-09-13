@@ -30,8 +30,8 @@
 
 ## Table of Contents
 
- [Project Overview](#project-overview)
- [Features](#features)
+- [Project Overview](#project-overview)
+- [Features](#features)
    - [To-Do Features](#to-do-features)
  [File Structure](#file-structure)
  [Requirements](#requirements)
