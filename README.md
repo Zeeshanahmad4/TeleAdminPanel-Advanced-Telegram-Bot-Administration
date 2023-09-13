@@ -30,15 +30,16 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-  - [To-Do Features](#to-do-features)
-- [File Structure](#file-structure)
-- [Requirements](#requirements)
-- [Usage Examples](#usage-examples)
-   - [Setup and Installation Instructions](#setup-and-installation-instructions)
-- [Troubleshooting Tips](#troubleshooting-tips)
-- [Contribution Guidelines](#contribution-guidelines)
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+   - [To-Do Features](#to-do-features)
+3. [File Structure](#file-structure)
+4. [Requirements](#requirements)
+5. [Usage Examples](#usage-examples)
+6. [Setup and Installation Instructions](#setup-and-installation-instructions)
+7. [Troubleshooting Tips](#troubleshooting-tips)
+8. [Contribution Guidelines](#contribution-guidelines)
+
 
 
 ## Project Overview 📖
