@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contents</title>
+    <!-- You can add CSS links or other head elements here -->
+</head>
+<body>
+    <header>
+        <h1>📋 Contents List</h1>
+    </header>
+
+    <main>
+        <ul id="content-list">
+            <% contents.forEach(content => { %>
+                <li>
+                    <h2><%= content.title %></h2>
+                    <p><%= content.description %></p>
+                    <p><strong>Uploaded by:</strong> <%= content.uploader %></p>
+                    <p><strong>Date:</strong> <%= content.dateUploaded %></p>
+                    <!-- You can expand with more content details or actions here -->
+                </li>
+            <% }); %>
+        </ul>
+    </main>
+
+    <footer>
+        <!-- You can add footer details or links here -->
+        <p>© 2023 Your Company Name</p>
+    </footer>
+</body>
+</html>
