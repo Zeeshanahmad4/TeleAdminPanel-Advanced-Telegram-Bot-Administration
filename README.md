@@ -35,7 +35,7 @@
     - [Future Features (To-Do)](#future-features-to-do-)
 3. [Requirements](#requirements-)
 4. [Usage Examples](#usage-examples-)
-    [Setup and Installation Instructions](#setup-and-installation-instructions)
+   - [Setup and Installation Instructions](#setup-and-installation-instructions)
 6. [Troubleshooting Tips](#troubleshooting-tips-)
 7. [Contribution Guidelines](#contribution-guidelines-)
 
@@ -79,7 +79,7 @@ node app.js
 // Server is running on port 3000
 ```
 
-## Setup and Installation Instructions 🛠️
+# Setup and Installation Instructions 🛠️
 
 1. Clone the repository: `git clone https://github.com/yourusername/TeleAdminPanel.git`
 2. Navigate to the project directory: `cd TeleAdminPanel`
