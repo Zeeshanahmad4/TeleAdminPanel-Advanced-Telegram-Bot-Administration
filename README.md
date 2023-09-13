@@ -35,7 +35,7 @@
     - [Future Features (To-Do)](#future-features-to-do-)
 3. [Requirements](#requirements-)
 4. [Usage Examples](#usage-examples-)
-5. [Setup and Installation Instructions](#setup-and-installation-instructions-)
+- [Setup and Installation Instructions](#setup-and-installation-instructions-)
 6. [Troubleshooting Tips](#troubleshooting-tips-)
 7. [Contribution Guidelines](#contribution-guidelines-)
 
