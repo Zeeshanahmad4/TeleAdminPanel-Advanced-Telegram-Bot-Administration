@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subscriptions</title>
+</head>
+<body>
+    <h1>📅 Subscriptions</h1>
+    <ul>
+        <% subscriptions.forEach(subscription => { %>
+            <li>
+                <strong>Subscriber:</strong> <%= subscription.user %>
+                <strong>Plan:</strong> <%= subscription.plan %>
+                <strong>End Date:</strong> <%= subscription.endDate %>
+                <!-- Additional subscription details or actions can be added here -->
+            </li>
+        <% }); %>
+    </ul>
+</body>
+</html>
