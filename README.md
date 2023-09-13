@@ -32,7 +32,7 @@
 
 1. [Project Overview](#project-overview-)
 2. [Features](#features-)
-    - [Future Enhancements (To-Do)](#future-enhancements-to-do-)
+    - [Future Features (To-Do)](#future-features-to-do-)
 3. [Requirements](#requirements-)
 4. [Usage Examples](#usage-examples-)
     - [Setup and Installation Instructions](#setup-and-installation-instructions-)
