@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verify Identity</title>
+</head>
+<body>
+    <h1>🔍 Verify Identity</h1>
+    <ul>
+        <% identityDocuments.forEach(document => { %>
+            <li>
+                <strong>User:</strong> <%= document.user %>
+                <img src="<%= document.documentPath %>" alt="Identity Document" width="200">
+                <button onclick="verify('<%= document.user %>')">Verify</button>
+                <!-- Additional verification details or actions can be added here -->
+            </li>
+        <% }); %>
+    </ul>
+    <script>
+        function verify(user) {
+            // Logic to verify the user's identity
+            // This can be an AJAX call or similar action
+            alert(`Verified identity for ${user}`);
+        }
+    </script>
+</body>
+</html>
