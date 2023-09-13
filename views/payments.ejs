@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payments</title>
+</head>
+<body>
+    <h1>💰 Payments</h1>
+    <ul>
+        <% payments.forEach(payment => { %>
+            <li>
+                <strong>From:</strong> <%= payment.sender %>
+                <strong>Amount:</strong> <%= payment.amount %>
+                <!-- Additional payment details or actions can be added here -->
+            </li>
+        <% }); %>
+    </ul>
+</body>
+</html>
