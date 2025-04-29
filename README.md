@@ -5,40 +5,6 @@
 This dashboard is specifically designed for TradingView signal bots. However, we can customize it to meet your requirements and integrate it seamlessly with your bot. Feel free to contact us for freelance services!
 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/75c6b760-018c-4cf8-bad9-61fe651f04d5" alt="Appilot Dashboard" width="990px">
-</div>
-
-
-<div align="center">
-  <a href="https://zee2655">
-    <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
-    <code>zee2655</code>
-  </a>
-  <span> ┃ </span>
-  
-  <a href="https://t.me/zeebitbash">
-    <img alt="Telegram" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
-    <code>Telegram</code>
-  </a>
-  <span> ┃ </span>
-  
-  <a href="https://wa.me/03044141429">
-    <img alt="WhatsApp" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
-    <code>WhatsApp</code>
-  </a>
-  <span> ┃ </span>
-  
-  <a href="https://www.upwork.com/freelancers/zeeshanahmad291">
-    <img alt="Upwork" width="80px" src="https://github.com/Zeeshanahmad4/Zeeshanahmad4/blob/main/upwork.svg" />
-    <code>Zeeshan Ahmad</code>
-  </a>
-
-<br />
-  <strong>For more inquiries or freelance work, please contact me through these links. 👆👆👆</strong>
-</div>
-
-
 
 ## Features✨
 
