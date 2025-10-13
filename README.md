@@ -5,10 +5,7 @@
     <img alt="BitBash × BitBot" height="22"
       src="https://img.shields.io/badge/Built%20by-BitBash-000000?style=flat&logo=&logoColor=white">
   </a>
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img alt="Discord contact" height="22"
-      src="https://img.shields.io/badge/Discord-Appilot-5865F2?style=flat&logo=discord&logoColor=white">
-  </a>
+
   <a href="https://t.me/devpilot1">
     <img alt="Telegram contact" height="22"
       src="https://img.shields.io/badge/Telegram-@devpilot1-2CA5E0?style=flat&logo=telegram&logoColor=white">
@@ -208,7 +205,7 @@
 
 ###  **Contact Me!**
 
- Discord server: **Appilot** — [Join](https://discord.gg/vBu9huKBvy)  
+ Discord server: **Discord** — [Join](https://discord.gg/vBu9huKBvy)  
  Telegram: **@devpilot1** — [Message me](https://t.me/devpilot1)
 
 </div>
